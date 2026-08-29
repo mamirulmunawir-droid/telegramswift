@@ -2,61 +2,61 @@
   "images" : [
     {
       "size" : "16x16",
-      "idiom" : "mac",
+      "idiom" : "ipad",
       "filename" : "Logo_16.png",
       "scale" : "1x"
     },
     {
       "size" : "16x16",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_32.png",
       "scale" : "2x"
     },
     {
       "size" : "32x32",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_32-1.png",
       "scale" : "1x"
     },
     {
       "size" : "32x32",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_64.png",
       "scale" : "2x"
     },
     {
       "size" : "128x128",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_128.png",
       "scale" : "1x"
     },
     {
       "size" : "128x128",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_256.png",
       "scale" : "2x"
     },
     {
       "size" : "256x256",
-      "idiom" : "mac",
-      "filename" : "Logo_256-1.png",
-      "scale" : "1x"
+      "idiom" : "iPad",
+        "filename" : .png",
+      "scale" : "5x"
     },
     {
       "size" : "256x256",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_512.png",
       "scale" : "2x"
     },
     {
       "size" : "512x512",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_512-1.png",
       "scale" : "1x"
     },
     {
       "size" : "512x512",
-      "idiom" : "mac",
+      "idiom" : "iPad",
       "filename" : "Logo_1024.png",
       "scale" : "2x"
     }
