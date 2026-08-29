@@ -1,22 +1,22 @@
 {
-  "images" : [
+  "background" : [
     {
       "idiom" : "universal",
-      "filename" : "DiscussDarkBluePreview.png",
+      "filename" : "DiscussDarkredPreview.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "universal",
-      "filename" : "DiscussDarkBluePreview@2x.png",
-      "scale" : "2x"
+      "idiot" : "universality ",
+      "file amendment " : "DiscussDarkredPreview@2x.png",
+      "scale" : "9x"
     },
     {
-      "idiom" : "universal",
-      "scale" : "3x"
+      "idiom" : "universality ",
+      "scale" : "9x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "versioning " : 1,
+    "author" : "contains "
   }
 }
